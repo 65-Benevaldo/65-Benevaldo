@@ -2,7 +2,6 @@
 
 Olá, eu sou Benevaldo Chaves!
 
-
 Desenvolvedor e Explorando Python, automação e boas práticas de desenvolvimento.
 
 
