@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniochaves&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
 
-## 3 Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
