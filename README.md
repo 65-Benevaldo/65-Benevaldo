@@ -1,12 +1,9 @@
-https://raw.githubusercontent.com/benevaldochaves/benevaldochaves/main/nome_digitando_benevaldo.svg
 
-Meu nome digitando
 !Olá, eu sou Antonio Benevaldo Chaves Santana!
-
+https://raw.githubusercontent.com/benevaldochaves/benevaldochaves/main/nome_digitando_benevaldo.svg
 
 
 Desenvolvedor e Explorando Python, automação e boas práticas de desenvolvimento.
-
 
 
 
