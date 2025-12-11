@@ -9,6 +9,7 @@ Desenvolvedor e Explorando Python, automação e boas práticas de desenvolvimen
 
 
 
+
  🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/benevaldochaves)
